@@ -1,0 +1,11 @@
+{
+  "name": "com.barbara.terraintoolkit",
+  "version": "1.0.0",
+  "displayName": "Terrain Toolkit",
+  "description": "Procedural terrain generation from heightmaps with texture and water support.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Varvara Holovach",
+    "email": "a.sharp.fus@gmail.com"
+  }
+}

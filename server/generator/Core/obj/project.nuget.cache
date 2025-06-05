@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/4hy+11O3dQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hluus\\dyplom\\generator\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hluus\\.nuget\\packages\\sixlabors.imagesharp\\3.1.8\\sixlabors.imagesharp.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

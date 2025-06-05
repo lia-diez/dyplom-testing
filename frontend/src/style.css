@@ -1,0 +1,27 @@
+﻿* {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0rem;
+    font-weight: bold;
+}
+
+
+body {
+    background-color: #e1e1e1;
+}
+
+.app-dark body {
+    background-image: url("https://static.wikia.nocookie.net/universalstudios/images/f/f2/Shrek2-disneyscreencaps.com-4369.jpg");
+    background-size: cover;
+    /*background-color: #121212;*/
+}
+
+a {
+    color: var(--p-contrast);
+    text-decoration: none;
+}

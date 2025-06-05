@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.terrain.painter.editor", "sc.terrain.painter.editor.csproj", "{9ea4980e-8682-a00a-4a53-088f5f880521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{51d8c27a-1f0b-9c7a-4fdb-0ce05220e8a8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.terrain.painter.runtime", "sc.terrain.painter.runtime.csproj", "{70f080b4-17a2-a778-1323-0e7740c13fd3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{afec3d6a-dea7-e0a5-4b3b-e4649c9c2139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ea4980e-8682-a00a-4a53-088f5f880521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ea4980e-8682-a00a-4a53-088f5f880521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51d8c27a-1f0b-9c7a-4fdb-0ce05220e8a8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51d8c27a-1f0b-9c7a-4fdb-0ce05220e8a8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70f080b4-17a2-a778-1323-0e7740c13fd3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70f080b4-17a2-a778-1323-0e7740c13fd3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{afec3d6a-dea7-e0a5-4b3b-e4649c9c2139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{afec3d6a-dea7-e0a5-4b3b-e4649c9c2139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
